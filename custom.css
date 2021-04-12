@@ -1,0 +1,34 @@
+fieldset.section > legend {
+  font-size: 20px;
+  color: #444 !important;
+  font-family: 'Roboto Slab';
+  padding: 0 8px;
+}
+
+.nsw-forms .nsw-form-label {
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: #444;
+  padding-bottom: 4px;
+}
+
+.nsw-forms .nsw-form-group .nsw-form-input {
+  max-width: 275px;
+}
+
+.nsw-forms .nsw-form-group textarea.nsw-form-input {
+  max-width: 100%;
+}
+
+fieldset {
+  margin: 1em 0 0.5em 0;
+  color: #444;
+  border: 1px solid #444 !important;
+  border-radius: 0.25px;
+  padding: 0 8px 15px 8px;
+}
+
+fieldset.section > div {
+  margin-top: 15px;
+  padding: 2px 6px;
+}
