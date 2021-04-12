@@ -1,13 +1,13 @@
 fieldset.section > legend {
   font-size: 20px;
   color: #444 !important;
-  font-family: 'Roboto Slab';
+  /* font-family: 'Roboto Slab'; */
   padding: 0 8px;
 }
 
 .nsw-forms .nsw-form-label {
   font-weight: 400;
-  font-family: 'Roboto';
+  /* font-family: 'Roboto'; */
   color: #444;
   padding-bottom: 4px;
 }
